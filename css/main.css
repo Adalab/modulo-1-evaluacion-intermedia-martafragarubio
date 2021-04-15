@@ -32,22 +32,15 @@
   justify-content: center;
   flex-direction: row;
   align-items: center;
+  padding-top: 10px;
+  padding-bottom: 13px;
 }
 .header-item {
   color: #4a4a4a;
   font-weight: "Semi-bold";
-  padding-top: 10px;
-  padding-bottom: 13px;
   margin: 20px;
   font-size: 16px;
 }
 .image {
   width: 155px;
-  /*padding-top: 10px;
-  padding-bottom: 10px;*/
-  box-sizing: content-box;
-  display: flex;
-  justify-content: center;
-  margin-top: 10px;
-  margin-bottom: 10px;
 }
