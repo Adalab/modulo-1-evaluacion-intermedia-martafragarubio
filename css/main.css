@@ -16,10 +16,10 @@
   color: #ffffff;
 }
 .title-item {
+  text-transform: capitalize;
   display: block;
   text-align: center;
   font-size: 30px;
-  text-transform: uppercase;
 }
 .header {
   width: 100%;
@@ -50,6 +50,7 @@
   font-weight: "Semi-bold";
   font-size: 16px;
   text-decoration: none;
+  text-transform: uppercase;
 }
 .image {
   margin-top: 10px;
